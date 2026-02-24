@@ -1,0 +1,11 @@
+{
+  "version": "1.0.1+14",
+  "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
+  "release_notes": "Added decentralized AI logic and patched database sync issues.",
+  "mandatory_update": false,
+  "min_supported_version": "1.0.0+13",
+  "platforms": {
+    "android": "https://gateway.pinata.cloud/ipfs/QmYourAndroidApkHash",
+    "ios": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
+  }
+}
