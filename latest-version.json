@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
+  "version": "1.1.1+47",
   "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
   "release_notes": "Added decentralized AI logic and patched database sync issues.",
   "mandatory_update": false,
@@ -10,3 +10,4 @@
   }
 
 }
+
