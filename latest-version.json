@@ -1,9 +1,9 @@
 {
-  "version": "2.5.11+116",
+  "version": "2.7.2+122",
   "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
   "release_notes": "multimedia support for live classes",
   "mandatory_update": false,
-  "min_supported_version": "2.4.10",
+  "min_supported_version": "2.7.2",
   "platforms": {
     "android": "https://gateway.pinata.cloud/ipfs/QmYourAndroidApkHash",
     "ios": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
