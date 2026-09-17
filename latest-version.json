@@ -1,7 +1,7 @@
 {
   "version": "2.10.3+219",
   "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
-  "release_notes": "multimedia support for live classes",
+  "release_notes": "Better cloud support and better M-pesa handling for live classes",
   "mandatory_update": false,
   "min_supported_version": "2.10.3",
   "platforms": {
