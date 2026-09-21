@@ -1,9 +1,9 @@
 {
-  "version": "2.10.4+219",
+  "version": "2.12.5+219",
   "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
-  "release_notes": "Better cloud support and better M-pesa handling for live classes",
+  "release_notes": "Improved UI/UX",
   "mandatory_update": false,
-  "min_supported_version": "2.10.3",
+  "min_supported_version": "2.12.5",
   "platforms": {
     "android": "https://gateway.pinata.cloud/ipfs/QmYourAndroidApkHash",
     "ios": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
