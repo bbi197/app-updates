@@ -1,9 +1,9 @@
 {
-  "version": "2.15.8+227",
+  "version": "2.16.10+233",
   "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
   "release_notes": "Payment support for all 15 African Countries and Profile cloud sync",
   "mandatory_update": false,
-  "min_supported_version": "2.14.6",
+  "min_supported_version": "2.16.10",
   "platforms": {
     "android": "https://gateway.pinata.cloud/ipfs/QmYourAndroidApkHash",
     "ios": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
