@@ -1,7 +1,7 @@
 {
-  "version": "2.19.15+238",
+  "version": "2.20.16+242",
   "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
-  "release_notes": "Payment support for all 15 African Countries and Better video streams",
+  "release_notes": "Improved Video and Student Quiz Submissions",
   "mandatory_update": false,
   "min_supported_version": "2.18.14",
   "platforms": {
