@@ -1,9 +1,9 @@
 {
-  "version": "2.20.17+243",
+  "version": "2.21.18+244",
   "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
-  "release_notes": "Improved Video and Student Quiz Submissions",
+  "release_notes": "Improved Cloud Sync",
   "mandatory_update": false,
-  "min_supported_version": "2.18.14",
+  "min_supported_version": "2.21.18",
   "platforms": {
     "android": "https://gateway.pinata.cloud/ipfs/QmYourAndroidApkHash",
     "ios": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
