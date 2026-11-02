@@ -1,9 +1,9 @@
 {
-  "version": "2.31.42+268",
+  "version": "2.45.64+291",
   "download_url": "https://gateway.pinata.cloud/ipfs/QmYourNewApkHashHere",
   "release_notes": "Exam Submission and Grading",
   "mandatory_update": false,
-  "min_supported_version": "2.31.42",
+  "min_supported_version": "2.45.63",
   "platforms": {
     "android": "https://gateway.pinata.cloud/ipfs/QmYourAndroidApkHash",
     "ios": "itms-apps://itunes.apple.com/app/idYOUR_APP_ID"
